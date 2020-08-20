@@ -1,5 +1,7 @@
 # Davide Castellani
 
+![Cover img](http://www.castellanidavide.it/assets/img/main-covers/main.jpg) 
+
 <!--
 **DavideC03/DavideC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
