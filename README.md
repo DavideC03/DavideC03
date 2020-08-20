@@ -53,6 +53,15 @@ I create programs in C, because it is the fastest and "lightest" high-language.
 
 Language programs it's not a limitation, I can easily understand and use other languages. 
 
+## Khow more about me
+![Khow more about me](https://www.castellanidavide.it/blog/wp-content/uploads/2020/07/wp-1595458617722.jpg)
+
+You can know more about me, for example my books (🤫***spoiler***🤫), you can follow me in by [Blog](www.castellanidavide.it/blog). 
+
+
+
+By Castellani Davide 
+
 <!--
 **DavideC03/DavideC03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
