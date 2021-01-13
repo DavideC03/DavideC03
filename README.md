@@ -2,6 +2,8 @@
 
 ![Cover img](http://www.castellanidavide.it/assets/img/main-covers/main.jpg) 
 
+![GitHub Badget](https://github-readme-stats.vercel.app/api?username=DavideC03&theme=blue-green)
+
 ## Principal Website(s)
 ![](http://www.castellanidavide.it/assets/img/card-covers/internet.png)
 
