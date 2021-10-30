@@ -1,6 +1,6 @@
 # Davide Castellani
 
-![Cover img](http://www.castellanidavide.it/assets/img/main-covers/main.jpg) 
+![Cover img](https://www.castellanidavide.it/assets/img/main-covers/main.jpg) 
 
 ![GitHub Badget](https://github-readme-stats.vercel.app/api?username=DavideC03&theme=blue-green)
 
